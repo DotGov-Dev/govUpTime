@@ -40,19 +40,19 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 1242,
-    "timeWeek": 865,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 762,
+    "timeDay": 1021,
+    "timeWeek": 762,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-06-04": 0
+      "2024-06-04": 8
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 569,
+      "2024-06-04": 577,
       "2024-06-03": 1242
     }
   }
