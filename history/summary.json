@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 461,
+    "timeDay": 424,
     "timeWeek": 461,
     "timeMonth": 461,
     "timeYear": 461,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 185,
+    "timeDay": 256,
     "timeWeek": 185,
     "timeMonth": 185,
     "timeYear": 185,
@@ -40,18 +40,20 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
-    "dailyMinutesDown": {}
+    "time": 865,
+    "timeDay": 1242,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   },
   {
     "name": "tools.usps.com (IPV6)",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 63,
+      "2024-06-04": 569,
       "2024-06-03": 1242
     }
   }
