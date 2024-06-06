@@ -22,25 +22,27 @@
     "url": "https://www.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico",
     "slug": "www-ncbi-nlm-nih-gov",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 232,
     "timeDay": 160,
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 1
+    }
   },
   {
     "name": "pubmed.ncbi.nlm.nih.gov",
     "url": "https://pubmed.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 630,
     "timeMonth": 630,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   },
   {
     "name": "tools.usps.com (IPV6)",
@@ -70,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 62,
+      "2024-06-06": 330,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1242
