@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 435,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 451,
+    "timeDay": 205,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico",
     "slug": "www-ncbi-nlm-nih-gov",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 208,
-    "timeDay": 100,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2024-06-06": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 205,
+    "timeDay": 108,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pubmed.ncbi.nlm.nih.gov",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 579,
-    "timeDay": 121,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
-    "dailyMinutesDown": {
-      "2024-06-06": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 539,
+    "timeDay": 131,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tools.usps.com (IPV6)",
@@ -74,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 337,
+      "2024-06-07": 65,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1242
