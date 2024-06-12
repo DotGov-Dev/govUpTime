@@ -40,9 +40,9 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 138,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-12": 0
+    }
   },
   {
     "name": "tools.usps.com (IPV6)",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-12": 64,
+      "2024-06-12": 768,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
