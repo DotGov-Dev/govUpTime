@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 195,
     "timeWeek": 154,
     "timeMonth": 356,
     "timeYear": 356,
-    "dailyMinutesDown": {
-      "2024-06-12": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "medlineplus.gov",
@@ -367,37 +365,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ais.usvisa-info.com",
     "url": "https://ais.usvisa-info.com",
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2993,
-    "timeDay": 2993,
-    "timeWeek": 2993,
-    "timeMonth": 2993,
-    "timeYear": 2993,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
+    "time": 2108,
+    "timeDay": 2108,
+    "timeWeek": 2108,
+    "timeMonth": 2108,
+    "timeYear": 2108,
+    "dailyMinutesDown": {
+      "2024-06-14": 0
+    }
   },
   {
     "name": "www.fda.gov",
