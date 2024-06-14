@@ -367,11 +367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -423,19 +423,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "up",
-    "uptime": "7.65%",
-    "uptimeDay": "7.65%",
-    "uptimeWeek": "7.65%",
-    "uptimeMonth": "7.65%",
-    "uptimeYear": "7.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1225,
     "timeDay": 1225,
     "timeWeek": 1225,
     "timeMonth": 1225,
     "timeYear": 1225,
-    "dailyMinutesDown": {
-      "2024-06-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.myhealth.va.gov",
@@ -443,19 +441,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myhealth.va.gov.ico",
     "slug": "www-myhealth-va-gov",
     "status": "up",
-    "uptime": "6.35%",
-    "uptimeDay": "6.35%",
-    "uptimeWeek": "6.35%",
-    "uptimeMonth": "6.35%",
-    "uptimeYear": "6.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1158,
     "timeDay": 1158,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 1158,
-    "dailyMinutesDown": {
-      "2024-06-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.medicare.gov",
