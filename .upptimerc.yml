@@ -36,64 +36,64 @@ sites:
     url: https://secure.login.gov
 
   - name: www.cdc.gov
-    url: www.cdc.gov
+    url: https://www.cdc.gov
 
   - name: www.ssa.gov
-    url: www.ssa.gov
+    url: https://www.ssa.gov
 
   - name: studentaid.gov
-    url: studentaid.gov
+    url: https://studentaid.gov
     
   - name: www.weather.gov
-    url: www.weather.gov
+    url: https://www.weather.gov
     
   - name: www.nps.gov
-    url: www.nps.gov
+    url: https://www.nps.gov
 
   - name: www.uscis.gov
-    url: www.uscis.gov
+    url: https://www.uscis.gov
 
   - name: travel.state.gov
-    url: travel.state.gov
+    url: https://travel.state.gov
 
   - name: www.va.gov
-    url: www.va.gov
+    url: https://www.va.gov
   
   - name: www.usajobs.gov
-    url: www.usajobs.gov
+    url: https://www.usajobs.gov
     
   - name: radar.weather.gov
-    url: radar.weather.gov
+    url: https://radar.weather.gov
     
   - name: ceac.state.gov
-    url: ceac.state.gov
+    url: https://ceac.state.gov
 
   - name: ais.usvisa-info.com
-    url: ais.usvisa-info.com
+    url: https://ais.usvisa-info.com
 
   - name: www.fda.gov
-    url: www.fda.gov
+    url: https://www.fda.gov
 
   - name: egov.uscis.gov
-    url: egov.uscis.gov
+    url: https://egov.uscis.gov
 
   - name: www.myhealth.va.gov
-    url: www.myhealth.va.gov
+    url: https://www.myhealth.va.gov
 
   - name: www.medicare.gov
-    url: www.medicare.gov
+    url: https://www.medicare.gov
   
   - name: www.justice.gov
-    url: www.justice.gov
+    url: https://www.justice.gov
 
   - name: www.nhlbi.nih.gov
-    url: www.nhlbi.nih.gov
+    url: https://www.nhlbi.nih.gov
 
   - name: www.cancer.gov
-    url: www.cancer.gov
+    url: https://www.cancer.gov
     
   - name: www.usa.gov
-    url: www.usa.gov
+    url: https://www.usa.gov
 
 
 
