@@ -376,7 +376,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 1190
+      "2024-06-15": 63,
+      "2024-06-14": 1243
     }
   },
   {
@@ -385,18 +386,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
     "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
+    "uptime": "98.80%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 1140,
     "timeDay": 1140,
     "timeWeek": 1140,
     "timeMonth": 1140,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-06-14": 28
+      "2024-06-14": 16
     }
   },
   {
