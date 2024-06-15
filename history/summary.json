@@ -376,7 +376,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 1421,
+      "2024-06-15": 1427,
       "2024-06-14": 1243
     }
   },
@@ -423,19 +423,19 @@
     "url": "https://egov.uscis.gov",
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 440,
-    "timeDay": 284,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 412,
+    "timeDay": 264,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 6
     }
   },
   {
