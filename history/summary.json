@@ -310,19 +310,19 @@
     "url": "https://www.va.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.va.gov.ico",
     "slug": "www-va-gov",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 453,
-    "timeDay": 390,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 3121,
+    "timeDay": 13761,
+    "timeWeek": 3121,
+    "timeMonth": 3121,
+    "timeYear": 3121,
     "dailyMinutesDown": {
-      "2024-06-18": 2
+      "2024-06-18": 15
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-18": 983,
+      "2024-06-18": 998,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -446,19 +446,19 @@
     "url": "https://www.myhealth.va.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.myhealth.va.gov.ico",
     "slug": "www-myhealth-va-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 689,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 3730,
+    "timeDay": 14166,
+    "timeWeek": 3730,
+    "timeMonth": 3730,
+    "timeYear": 3730,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 15
     }
   },
   {
