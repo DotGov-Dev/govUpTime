@@ -310,18 +310,20 @@
     "url": "https://www.va.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.va.gov.ico",
     "slug": "www-va-gov",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 453,
     "timeDay": 390,
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 2
+    }
   },
   {
     "name": "www.usajobs.gov",
@@ -376,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-18": 64,
+      "2024-06-18": 983,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -389,11 +391,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 907,
     "timeDay": 557,
     "timeWeek": 907,
@@ -444,9 +446,9 @@
     "url": "https://www.myhealth.va.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.myhealth.va.gov.ico",
     "slug": "www-myhealth-va-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -455,7 +457,9 @@
     "timeWeek": 741,
     "timeMonth": 741,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   },
   {
     "name": "www.medicare.gov",
