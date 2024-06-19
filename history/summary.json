@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usps.com.ico",
     "slug": "www-usps-com",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 94,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2024-06-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "informeddelivery.usps.com",
@@ -382,7 +380,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-18": 1417,
+      "2024-06-19": 64,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
