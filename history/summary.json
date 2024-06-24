@@ -381,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-24": 996,
+      "2024-06-24": 1003,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -419,19 +419,19 @@
     "url": "https://www.fda.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.fda.gov.ico",
     "slug": "www-fda-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 388,
-    "timeWeek": 294,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 327,
+    "timeDay": 347,
+    "timeWeek": 291,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 7
     }
   },
   {
