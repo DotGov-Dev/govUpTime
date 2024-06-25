@@ -1,7 +1,7 @@
 url: https://www.fda.gov
-status: up
-code: 200
-responseTime: 353
-lastUpdated: 2024-06-24T23:08:38.604Z
+status: down
+code: 503
+responseTime: 489
+lastUpdated: 2024-06-25T13:29:58.261Z
 startTime: 2024-06-14T03:17:18.586Z
 generator: Upptime <https://github.com/upptime/upptime>
