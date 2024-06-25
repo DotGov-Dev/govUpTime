@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.usps.com.ico",
     "slug": "tools-usps-com",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 317,
     "timeWeek": 440,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {
-      "2024-06-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "reg.usps.com",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/reg.usps.com.ico",
     "slug": "reg-usps-com",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 127,
     "timeWeek": 165,
     "timeMonth": 184,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2024-06-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.usps.com",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usps.com.ico",
     "slug": "www-usps-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 63,
     "timeWeek": 100,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2024-06-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "informeddelivery.usps.com",
@@ -65,18 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/informeddelivery.usps.com.ico",
     "slug": "informeddelivery-usps-com",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 323,
     "timeDay": 241,
     "timeWeek": 340,
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-06-25": 12,
       "2024-06-19": 24,
       "2024-06-18": 42
     }
@@ -388,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 711,
+      "2024-06-25": 810,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -427,18 +420,20 @@
     "url": "https://www.fda.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.fda.gov.ico",
     "slug": "www-fda-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 402,
-    "timeWeek": 324,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "time": 343,
+    "timeDay": 417,
+    "timeWeek": 338,
+    "timeMonth": 343,
+    "timeYear": 343,
+    "dailyMinutesDown": {
+      "2024-06-25": 0
+    }
   },
   {
     "name": "egov.uscis.gov",
