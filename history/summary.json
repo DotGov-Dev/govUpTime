@@ -4,36 +4,40 @@
     "url": "https://tools.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.usps.com.ico",
     "slug": "tools-usps-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 448,
     "timeDay": 416,
     "timeWeek": 469,
     "timeMonth": 448,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 2
+    }
   },
   {
     "name": "reg.usps.com",
     "url": "https://reg.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/reg.usps.com.ico",
     "slug": "reg-usps-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 181,
     "timeDay": 144,
     "timeWeek": 170,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 1
+    }
   },
   {
     "name": "www.usps.com",
@@ -59,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/informeddelivery.usps.com.ico",
     "slug": "informeddelivery-usps-com",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.59%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 325,
     "timeDay": 352,
     "timeWeek": 368,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2024-06-26": 0,
+      "2024-06-26": 8,
       "2024-06-19": 24,
       "2024-06-18": 42
     }
@@ -382,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 932,
+      "2024-06-26": 939,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
