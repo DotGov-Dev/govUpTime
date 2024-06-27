@@ -22,9 +22,9 @@
     "url": "https://reg.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/reg.usps.com.ico",
     "slug": "reg-usps-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 715,
     "timeMonth": 429,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   },
   {
     "name": "www.usps.com",
@@ -41,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usps.com.ico",
     "slug": "www-usps-com",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 1547,
     "timeWeek": 410,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {
-      "2024-06-27": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "informeddelivery.usps.com",
@@ -384,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 896,
+      "2024-06-27": 911,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
