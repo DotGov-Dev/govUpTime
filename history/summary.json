@@ -40,9 +40,9 @@
     "url": "https://www.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.usps.com.ico",
     "slug": "www-usps-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 85,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   },
   {
     "name": "informeddelivery.usps.com",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/informeddelivery.usps.com.ico",
     "slug": "informeddelivery-usps-com",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 475,
     "timeDay": 1304,
     "timeWeek": 662,
@@ -382,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 712,
+      "2024-06-27": 884,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -442,19 +444,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 830,
     "timeDay": 3705,
     "timeWeek": 1446,
     "timeMonth": 830,
     "timeYear": 830,
-    "dailyMinutesDown": {
-      "2024-06-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.myhealth.va.gov",
@@ -536,11 +536,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cancer.gov.ico",
     "slug": "www-cancer-gov",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 285,
     "timeDay": 188,
     "timeWeek": 274,
