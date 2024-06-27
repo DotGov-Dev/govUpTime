@@ -384,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 1389,
+      "2024-06-27": 1412,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -406,18 +406,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 792,
     "timeDay": 809,
     "timeWeek": 776,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2024-06-27": 13,
       "2024-06-14": 16
     }
   },
@@ -518,9 +517,9 @@
     "url": "https://www.nhlbi.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nhlbi.nih.gov.ico",
     "slug": "www-nhlbi-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -529,7 +528,9 @@
     "timeWeek": 575,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   },
   {
     "name": "www.cancer.gov",
