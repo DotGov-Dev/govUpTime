@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 379,
-    "timeWeek": 426,
+    "timeWeek": 451,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.86%",
     "time": 1973,
     "timeDay": 129,
-    "timeWeek": 4168,
+    "timeWeek": 4507,
     "timeMonth": 1973,
     "timeYear": 1973,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 143,
-    "timeWeek": 452,
+    "timeWeek": 508,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "99.68%",
     "time": 472,
     "timeDay": 498,
-    "timeWeek": 685,
+    "timeWeek": 732,
     "timeMonth": 472,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -384,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-02": 690,
+      "2024-07-02": 711,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -410,18 +410,19 @@
     "url": "https://ais.usvisa-info.com",
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
-    "time": 831,
-    "timeDay": 1009,
-    "timeWeek": 858,
-    "timeMonth": 831,
-    "timeYear": 831,
+    "time": 822,
+    "timeDay": 924,
+    "timeWeek": 841,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-06-30": 56,
       "2024-06-14": 16
     }
@@ -524,19 +525,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nhlbi.nih.gov.ico",
     "slug": "www-nhlbi-nih-gov",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 2225,
     "timeWeek": 842,
     "timeMonth": 611,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2024-07-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.cancer.gov",
