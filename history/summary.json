@@ -262,19 +262,19 @@
     "url": "https://www.nps.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nps.gov.ico",
     "slug": "www-nps-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 100,
-    "timeDay": 202,
-    "timeWeek": 127,
+    "timeDay": 160,
+    "timeWeek": 126,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-07-10": 0
+      "2024-07-10": 11
     }
   },
   {
@@ -386,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 656,
+      "2024-07-10": 667,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
