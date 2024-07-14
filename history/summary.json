@@ -13,7 +13,7 @@
     "time": 450,
     "timeDay": 341,
     "timeWeek": 447,
-    "timeMonth": 441,
+    "timeMonth": 448,
     "timeYear": 450,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1486,
     "timeDay": 162,
     "timeWeek": 282,
-    "timeMonth": 1486,
+    "timeMonth": 1623,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2024-06-27": 36
@@ -51,7 +51,7 @@
     "time": 215,
     "timeDay": 116,
     "timeWeek": 183,
-    "timeMonth": 215,
+    "timeMonth": 220,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 910,
     "timeDay": 418,
     "timeWeek": 428,
-    "timeMonth": 910,
+    "timeMonth": 961,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2024-06-26": 19,
@@ -91,7 +91,7 @@
     "time": 291,
     "timeDay": 65,
     "timeWeek": 345,
-    "timeMonth": 327,
+    "timeMonth": 208,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -109,7 +109,7 @@
     "time": 296,
     "timeDay": 106,
     "timeWeek": 193,
-    "timeMonth": 254,
+    "timeMonth": 269,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -127,7 +127,7 @@
     "time": 145,
     "timeDay": 63,
     "timeWeek": 195,
-    "timeMonth": 145,
+    "timeMonth": 136,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -145,7 +145,7 @@
     "time": 456,
     "timeDay": 315,
     "timeWeek": 436,
-    "timeMonth": 456,
+    "timeMonth": 466,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -163,7 +163,7 @@
     "time": 508,
     "timeDay": 435,
     "timeWeek": 513,
-    "timeMonth": 508,
+    "timeMonth": 516,
     "timeYear": 508,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 191,
     "timeDay": 269,
     "timeWeek": 170,
-    "timeMonth": 191,
+    "timeMonth": 183,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -199,7 +199,7 @@
     "time": 472,
     "timeDay": 253,
     "timeWeek": 350,
-    "timeMonth": 472,
+    "timeMonth": 495,
     "timeYear": 472,
     "dailyMinutesDown": {}
   },
@@ -217,7 +217,7 @@
     "time": 307,
     "timeDay": 265,
     "timeWeek": 327,
-    "timeMonth": 307,
+    "timeMonth": 309,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -235,7 +235,7 @@
     "time": 190,
     "timeDay": 199,
     "timeWeek": 171,
-    "timeMonth": 190,
+    "timeMonth": 186,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -271,7 +271,7 @@
     "time": 101,
     "timeDay": 87,
     "timeWeek": 111,
-    "timeMonth": 101,
+    "timeMonth": 104,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -289,7 +289,7 @@
     "time": 232,
     "timeDay": 206,
     "timeWeek": 238,
-    "timeMonth": 232,
+    "timeMonth": 239,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -307,7 +307,7 @@
     "time": 883,
     "timeDay": 888,
     "timeWeek": 1052,
-    "timeMonth": 883,
+    "timeMonth": 905,
     "timeYear": 883,
     "dailyMinutesDown": {}
   },
@@ -325,7 +325,7 @@
     "time": 1269,
     "timeDay": 493,
     "timeWeek": 660,
-    "timeMonth": 1269,
+    "timeMonth": 1368,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2024-06-18": 15
@@ -345,7 +345,7 @@
     "time": 286,
     "timeDay": 180,
     "timeWeek": 253,
-    "timeMonth": 286,
+    "timeMonth": 288,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -363,7 +363,7 @@
     "time": 207,
     "timeDay": 63,
     "timeWeek": 179,
-    "timeMonth": 207,
+    "timeMonth": 204,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -376,7 +376,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "0.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -384,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-14": 71,
+      "2024-07-14": 361,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
@@ -422,18 +422,19 @@
     "url": "https://ais.usvisa-info.com",
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 942,
-    "timeDay": 714,
-    "timeWeek": 817,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1003,
+    "timeDay": 3090,
+    "timeWeek": 1009,
+    "timeMonth": 976,
+    "timeYear": 1003,
     "dailyMinutesDown": {
+      "2024-07-14": 0,
       "2024-07-09": 16,
       "2024-07-08": 18,
       "2024-07-04": 77,
@@ -456,7 +457,7 @@
     "time": 313,
     "timeDay": 215,
     "timeWeek": 303,
-    "timeMonth": 313,
+    "timeMonth": 315,
     "timeYear": 313,
     "dailyMinutesDown": {}
   },
@@ -474,7 +475,7 @@
     "time": 1134,
     "timeDay": 220,
     "timeWeek": 1514,
-    "timeMonth": 1134,
+    "timeMonth": 1181,
     "timeYear": 1134,
     "dailyMinutesDown": {
       "2024-07-11": 31
@@ -494,7 +495,7 @@
     "time": 1483,
     "timeDay": 721,
     "timeWeek": 893,
-    "timeMonth": 1483,
+    "timeMonth": 1541,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2024-07-08": 21,
@@ -515,7 +516,7 @@
     "time": 319,
     "timeDay": 239,
     "timeWeek": 327,
-    "timeMonth": 319,
+    "timeMonth": 313,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -533,7 +534,7 @@
     "time": 230,
     "timeDay": 152,
     "timeWeek": 216,
-    "timeMonth": 230,
+    "timeMonth": 236,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -551,7 +552,7 @@
     "time": 611,
     "timeDay": 500,
     "timeWeek": 638,
-    "timeMonth": 611,
+    "timeMonth": 613,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2024-07-02": 22
@@ -571,7 +572,7 @@
     "time": 278,
     "timeDay": 121,
     "timeWeek": 258,
-    "timeMonth": 278,
+    "timeMonth": 274,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2024-06-20": 34
@@ -591,7 +592,7 @@
     "time": 130,
     "timeDay": 146,
     "timeWeek": 172,
-    "timeMonth": 130,
+    "timeMonth": 129,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
