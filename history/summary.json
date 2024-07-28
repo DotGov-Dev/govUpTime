@@ -227,19 +227,19 @@
     "url": "https://studentaid.gov",
     "icon": "https://icons.duckduckgo.com/ip3/studentaid.gov.ico",
     "slug": "studentaid-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 133,
-    "timeWeek": 159,
-    "timeMonth": 183,
-    "timeYear": 184,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 183,
+    "timeDay": 144,
+    "timeWeek": 160,
+    "timeMonth": 182,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 7
     }
   },
   {
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 410,
+      "2024-07-28": 417,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
