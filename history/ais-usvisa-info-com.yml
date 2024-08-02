@@ -1,7 +1,7 @@
 url: https://ais.usvisa-info.com
-status: up
-code: 200
-responseTime: 965
-lastUpdated: 2024-08-02T12:48:32.021Z
+status: down
+code: 502
+responseTime: 500
+lastUpdated: 2024-08-02T14:35:32.047Z
 startTime: 2024-06-14T03:17:16.913Z
 generator: Upptime <https://github.com/upptime/upptime>
