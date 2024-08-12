@@ -4,19 +4,19 @@
     "url": "https://tools.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/tools.usps.com.ico",
     "slug": "tools-usps-com",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 742,
     "timeDay": 8330,
     "timeWeek": 3046,
     "timeMonth": 1178,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2024-08-12": 6
+      "2024-08-12": 0
     }
   },
   {
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-12": 1133,
+      "2024-08-12": 1155,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -508,18 +508,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.85%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
     "time": 1276,
     "timeDay": 77,
     "timeWeek": 4509,
     "timeMonth": 1630,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-08-12": 38,
+      "2024-08-12": 60,
       "2024-08-09": 37,
       "2024-07-11": 31
     }
