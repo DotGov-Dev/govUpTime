@@ -13,7 +13,7 @@
     "time": 722,
     "timeDay": 574,
     "timeWeek": 3095,
-    "timeMonth": 1159,
+    "timeMonth": 1184,
     "timeYear": 722,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 901,
     "timeDay": 174,
     "timeWeek": 155,
-    "timeMonth": 213,
+    "timeMonth": 217,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2024-06-27": 36
@@ -51,7 +51,7 @@
     "time": 181,
     "timeDay": 63,
     "timeWeek": 107,
-    "timeMonth": 140,
+    "timeMonth": 142,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 664,
     "timeDay": 198,
     "timeWeek": 360,
-    "timeMonth": 350,
+    "timeMonth": 351,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2024-07-20": 61,
@@ -92,7 +92,7 @@
     "time": 262,
     "timeDay": 198,
     "timeWeek": 212,
-    "timeMonth": 209,
+    "timeMonth": 214,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -128,7 +128,7 @@
     "time": 152,
     "timeDay": 132,
     "timeWeek": 132,
-    "timeMonth": 158,
+    "timeMonth": 160,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -146,7 +146,7 @@
     "time": 439,
     "timeDay": 2676,
     "timeWeek": 720,
-    "timeMonth": 423,
+    "timeMonth": 428,
     "timeYear": 439,
     "dailyMinutesDown": {}
   },
@@ -164,7 +164,7 @@
     "time": 570,
     "timeDay": 4458,
     "timeWeek": 1198,
-    "timeMonth": 627,
+    "timeMonth": 628,
     "timeYear": 570,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 188,
     "timeDay": 167,
     "timeWeek": 148,
-    "timeMonth": 186,
+    "timeMonth": 187,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -200,7 +200,7 @@
     "time": 636,
     "timeDay": 471,
     "timeWeek": 1209,
-    "timeMonth": 692,
+    "timeMonth": 698,
     "timeYear": 636,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "time": 309,
     "timeDay": 974,
     "timeWeek": 355,
-    "timeMonth": 308,
+    "timeMonth": 312,
     "timeYear": 309,
     "dailyMinutesDown": {}
   },
@@ -254,7 +254,7 @@
     "time": 85,
     "timeDay": 157,
     "timeWeek": 93,
-    "timeMonth": 73,
+    "timeMonth": 74,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -272,7 +272,7 @@
     "time": 98,
     "timeDay": 91,
     "timeWeek": 70,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -290,7 +290,7 @@
     "time": 231,
     "timeDay": 250,
     "timeWeek": 174,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -308,7 +308,7 @@
     "time": 970,
     "timeDay": 338,
     "timeWeek": 893,
-    "timeMonth": 1066,
+    "timeMonth": 1068,
     "timeYear": 970,
     "dailyMinutesDown": {}
   },
@@ -326,7 +326,7 @@
     "time": 903,
     "timeDay": 520,
     "timeWeek": 491,
-    "timeMonth": 507,
+    "timeMonth": 508,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2024-06-18": 15
@@ -346,7 +346,7 @@
     "time": 347,
     "timeDay": 4716,
     "timeWeek": 934,
-    "timeMonth": 424,
+    "timeMonth": 425,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -364,7 +364,7 @@
     "time": 194,
     "timeDay": 225,
     "timeWeek": 134,
-    "timeMonth": 173,
+    "timeMonth": 174,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -385,7 +385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-19": 68,
+      "2024-08-19": 511,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -459,18 +459,19 @@
     "url": "https://ais.usvisa-info.com",
     "icon": "https://icons.duckduckgo.com/ip3/ais.usvisa-info.com.ico",
     "slug": "ais-usvisa-info-com",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "98.54%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.22%",
-    "time": 1185,
-    "timeDay": 1202,
-    "timeWeek": 1715,
-    "timeMonth": 1336,
-    "timeYear": 1185,
+    "uptimeYear": "99.23%",
+    "time": 1183,
+    "timeDay": 882,
+    "timeWeek": 1636,
+    "timeMonth": 1337,
+    "timeYear": 1183,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-08-18": 21,
       "2024-08-17": 35,
       "2024-08-16": 40,
@@ -506,7 +507,7 @@
     "time": 323,
     "timeDay": 587,
     "timeWeek": 302,
-    "timeMonth": 335,
+    "timeMonth": 336,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -516,18 +517,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "90.39%",
+    "uptime": "89.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.19%",
-    "uptimeMonth": "79.25%",
-    "uptimeYear": "90.39%",
+    "uptimeWeek": "5.79%",
+    "uptimeMonth": "78.24%",
+    "uptimeYear": "89.97%",
     "time": 1187,
     "timeDay": 71,
     "timeWeek": 58,
-    "timeMonth": 1332,
+    "timeMonth": 1366,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2024-08-19": 68,
+      "2024-08-19": 511,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -553,7 +554,7 @@
     "time": 1196,
     "timeDay": 519,
     "timeWeek": 1404,
-    "timeMonth": 884,
+    "timeMonth": 888,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2024-07-08": 21,
@@ -574,7 +575,7 @@
     "time": 320,
     "timeDay": 465,
     "timeWeek": 314,
-    "timeMonth": 319,
+    "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {}
   },
@@ -592,7 +593,7 @@
     "time": 216,
     "timeDay": 396,
     "timeWeek": 162,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -610,7 +611,7 @@
     "time": 578,
     "timeDay": 445,
     "timeWeek": 516,
-    "timeMonth": 525,
+    "timeMonth": 534,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2024-07-02": 22
@@ -630,7 +631,7 @@
     "time": 260,
     "timeDay": 288,
     "timeWeek": 233,
-    "timeMonth": 237,
+    "timeMonth": 238,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-06-20": 34
@@ -650,7 +651,7 @@
     "time": 126,
     "timeDay": 105,
     "timeWeek": 85,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
