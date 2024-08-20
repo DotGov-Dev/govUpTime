@@ -191,19 +191,19 @@
     "url": "https://www.cdc.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "www-cdc-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 2385,
-    "timeWeek": 1548,
-    "timeMonth": 768,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 657,
+    "timeDay": 1401,
+    "timeWeek": 1386,
+    "timeMonth": 757,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 6
     }
   },
   {
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-20": 577,
+      "2024-08-20": 583,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -523,7 +523,7 @@
     "uptime": "88.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.80%",
+    "uptimeMonth": "74.79%",
     "uptimeYear": "88.57%",
     "time": 1173,
     "timeDay": 57,
@@ -531,7 +531,7 @@
     "timeMonth": 1366,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-08-20": 577,
+      "2024-08-20": 583,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
