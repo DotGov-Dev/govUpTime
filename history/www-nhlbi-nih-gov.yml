@@ -1,7 +1,7 @@
 url: https://www.nhlbi.nih.gov
-status: down
-code: 504
-responseTime: 4065
-lastUpdated: 2024-09-24T23:31:40.157Z
+status: up
+code: 200
+responseTime: 450
+lastUpdated: 2024-09-24T23:38:53.168Z
 startTime: 2024-06-14T03:17:22.273Z
 generator: Upptime <https://github.com/upptime/upptime>
