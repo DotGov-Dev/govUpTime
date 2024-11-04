@@ -1,7 +1,7 @@
 url: https://www.usajobs.gov
-status: down
-code: 403
-responseTime: 247
-lastUpdated: 2024-11-04T22:49:44.533Z
+status: up
+code: 200
+responseTime: 285
+lastUpdated: 2024-11-04T22:56:38.005Z
 startTime: 2024-06-14T03:17:13.079Z
 generator: Upptime <https://github.com/upptime/upptime>
