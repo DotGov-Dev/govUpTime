@@ -1,7 +1,7 @@
 url: https://informeddelivery.usps.com
-status: up
-code: 200
-responseTime: 773
-lastUpdated: 2024-11-06T11:57:01.677Z
+status: down
+code: 504
+responseTime: 23781
+lastUpdated: 2024-11-06T14:40:05.571Z
 startTime: 2024-06-14T03:17:03.177Z
 generator: Upptime <https://github.com/upptime/upptime>
