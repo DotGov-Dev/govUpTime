@@ -425,7 +425,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-15": 439,
+      "2025-01-15": 448,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 218,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-01-15": 439,
+      "2025-01-15": 448,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 235,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-01-15": 439,
+      "2025-01-15": 448,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -1117,7 +1117,7 @@
     "uptimeYear": "99.98%",
     "time": 649,
     "timeDay": 273,
-    "timeWeek": 2359,
+    "timeWeek": 2218,
     "timeMonth": 1067,
     "timeYear": 649,
     "dailyMinutesDown": {
@@ -1131,19 +1131,19 @@
     "url": "https://www.cancer.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.cancer.gov.ico",
     "slug": "www-cancer-gov",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 268,
-    "timeDay": 291,
-    "timeWeek": 201,
-    "timeMonth": 197,
+    "timeDay": 229,
+    "timeWeek": 197,
+    "timeMonth": 196,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-01-15": 1,
+      "2025-01-15": 8,
       "2024-06-20": 34
     }
   },
