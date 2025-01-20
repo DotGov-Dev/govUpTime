@@ -1,7 +1,7 @@
 url: https://secure.login.gov
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-01-19T23:07:39.294Z
+status: down
+code: 403
+responseTime: 65
+lastUpdated: 2025-01-20T16:15:17.501Z
 startTime: 2024-06-14T03:17:07.250Z
 generator: Upptime <https://github.com/upptime/upptime>
