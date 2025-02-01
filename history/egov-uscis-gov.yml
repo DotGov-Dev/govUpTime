@@ -1,7 +1,7 @@
 url: https://egov.uscis.gov
-status: down
-code: 521
-responseTime: 19487
-lastUpdated: 2025-02-01T11:51:17.134Z
+status: up
+code: 200
+responseTime: 29669
+lastUpdated: 2025-02-01T12:21:53.977Z
 startTime: 2024-06-14T03:17:19.357Z
 generator: Upptime <https://github.com/upptime/upptime>
