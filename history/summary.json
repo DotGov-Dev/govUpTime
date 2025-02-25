@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 620,
+      "2025-02-25": 646,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -779,7 +779,7 @@
     "timeMonth": 261,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-02-25": 620,
+      "2025-02-25": 646,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -985,7 +985,7 @@
     "timeMonth": 6739,
     "timeYear": 1496,
     "dailyMinutesDown": {
-      "2025-02-25": 620,
+      "2025-02-25": 646,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -1190,9 +1190,9 @@
     "url": "https://www.myhealth.va.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.myhealth.va.gov.ico",
     "slug": "www-myhealth-va-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.89%",
+    "uptimeDay": "94.86%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -1202,7 +1202,7 @@
     "timeMonth": 1245,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2025-02-25": 73,
+      "2025-02-25": 74,
       "2024-12-02": 20,
       "2024-09-27": 23,
       "2024-09-12": 68,
