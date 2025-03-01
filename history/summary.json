@@ -105,10 +105,10 @@
     "url": "https://www.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico",
     "slug": "www-ncbi-nlm-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "82.61%",
-    "uptimeWeek": "97.52%",
+    "uptimeDay": "82.53%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "99.68%",
     "time": 274,
@@ -117,7 +117,7 @@
     "timeMonth": 453,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-03-01": 251,
+      "2025-03-01": 252,
       "2025-02-21": 896,
       "2024-11-12": 22,
       "2024-09-30": 22
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 1090,
+      "2025-03-01": 1114,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -790,7 +790,7 @@
     "timeMonth": 300,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-03-01": 1090,
+      "2025-03-01": 1114,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1000,7 +1000,7 @@
     "timeMonth": 82,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2025-03-01": 1090,
+      "2025-03-01": 1114,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
