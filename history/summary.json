@@ -129,10 +129,10 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
     "slug": "pubmed-ncbi-nlm-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "39.75%",
-    "uptimeWeek": "91.39%",
+    "uptimeDay": "39.69%",
+    "uptimeWeek": "91.38%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.77%",
     "time": 245,
@@ -141,7 +141,7 @@
     "timeMonth": 653,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-03-02": 289,
+      "2025-03-02": 290,
       "2025-03-01": 579
     }
   },
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-02": 332,
+      "2025-03-02": 343,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -794,7 +794,7 @@
     "timeMonth": 307,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-03-02": 332,
+      "2025-03-02": 343,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1005,7 +1005,7 @@
     "timeMonth": 83,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2025-03-02": 332,
+      "2025-03-02": 343,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1279,10 +1279,10 @@
     "url": "https://www.nhlbi.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nhlbi.nih.gov.ico",
     "slug": "www-nhlbi-nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "40.00%",
-    "uptimeWeek": "91.43%",
+    "uptimeDay": "39.96%",
+    "uptimeWeek": "91.42%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "99.75%",
     "time": 744,
@@ -1291,7 +1291,7 @@
     "timeMonth": 1535,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2025-03-02": 302,
+      "2025-03-02": 303,
       "2025-03-01": 562,
       "2025-01-08": 25,
       "2024-10-16": 18,
