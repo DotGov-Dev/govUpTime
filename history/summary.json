@@ -108,9 +108,9 @@
     "slug": "www-ncbi-nlm-nih-gov",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "9.22%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "8.79%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "99.37%",
     "time": 325,
     "timeDay": 1753,
@@ -118,7 +118,7 @@
     "timeMonth": 796,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-03-02": 849,
+      "2025-03-02": 856,
       "2025-03-01": 579,
       "2025-02-21": 896,
       "2024-11-12": 22,
@@ -133,8 +133,8 @@
     "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "11.86%",
-    "uptimeWeek": "86.23%",
-    "uptimeMonth": "96.83%",
+    "uptimeWeek": "86.16%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.63%",
     "time": 395,
     "timeDay": 6215,
@@ -142,7 +142,7 @@
     "timeMonth": 1769,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-03-02": 810,
+      "2025-03-02": 817,
       "2025-03-01": 579
     }
   },
@@ -151,11 +151,11 @@
     "url": "https://medlineplus.gov",
     "icon": "https://icons.duckduckgo.com/ip3/medlineplus.gov.ico",
     "slug": "medlineplus-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "19.69%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "97.17%",
+    "uptimeDay": "20.48%",
+    "uptimeWeek": "87.76%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.67%",
     "time": 300,
     "timeDay": 2326,
@@ -163,7 +163,7 @@
     "timeMonth": 1100,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-03-02": 719,
+      "2025-03-02": 714,
       "2025-03-01": 520
     }
   },
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-02": 946,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -795,7 +795,7 @@
     "timeMonth": 307,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-03-02": 946,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1006,7 +1006,7 @@
     "timeMonth": 83,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2025-03-02": 946,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1282,9 +1282,9 @@
     "slug": "www-nhlbi-nih-gov",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "15.03%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "14.97%",
+    "uptimeWeek": "86.68%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "99.63%",
     "time": 817,
     "timeDay": 4709,
@@ -1292,7 +1292,7 @@
     "timeMonth": 1923,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-03-02": 772,
+      "2025-03-02": 779,
       "2025-03-01": 562,
       "2025-01-08": 25,
       "2024-10-16": 18,
@@ -1306,9 +1306,9 @@
     "slug": "www-cancer-gov",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "26.37%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "25.88%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.71%",
     "time": 453,
     "timeDay": 4552,
@@ -1316,7 +1316,7 @@
     "timeMonth": 1611,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-03-02": 745,
+      "2025-03-02": 752,
       "2025-03-01": 314,
       "2024-06-20": 34
     }
