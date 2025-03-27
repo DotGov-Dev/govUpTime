@@ -303,11 +303,11 @@
     "url": "https://studentaid.gov",
     "icon": "https://icons.duckduckgo.com/ip3/studentaid.gov.ico",
     "slug": "studentaid-gov",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 183,
     "timeDay": 147,
@@ -315,7 +315,7 @@
     "timeMonth": 139,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-03-27": 24,
+      "2025-03-27": 30,
       "2025-03-26": 21,
       "2025-03-25": 49
     }
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 1180,
+      "2025-03-27": 1187,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -850,7 +850,7 @@
     "timeMonth": 300,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-03-27": 1180,
+      "2025-03-27": 1187,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1086,7 +1086,7 @@
     "timeMonth": 79,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2025-03-27": 1180,
+      "2025-03-27": 1187,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
