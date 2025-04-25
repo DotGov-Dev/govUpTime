@@ -1,7 +1,7 @@
 url: https://studentaid.gov
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-04-25T11:36:49.910Z
+status: down
+code: 403
+responseTime: 150
+lastUpdated: 2025-04-25T14:58:56.586Z
 startTime: 2024-06-14T03:17:09.103Z
 generator: Upptime <https://github.com/upptime/upptime>
