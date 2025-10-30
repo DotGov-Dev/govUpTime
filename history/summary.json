@@ -325,8 +325,7 @@
       "2024-11-25": 16,
       "2024-11-08": 84,
       "2024-11-05": 23,
-      "2024-10-31": 55,
-      "2024-10-30": 21
+      "2024-10-31": 55
     }
   },
   {
@@ -335,18 +334,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "www-ssa-gov",
     "status": "down",
-    "uptime": "71.69%",
+    "uptime": "71.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.99%",
+    "uptimeYear": "60.97%",
     "time": 265,
     "timeDay": 77,
     "timeWeek": 164,
     "timeMonth": 155,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-10-29": 1421,
+      "2025-10-30": 87,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -609,18 +609,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uscis.gov.ico",
     "slug": "www-uscis-gov",
     "status": "down",
-    "uptime": "70.83%",
+    "uptime": "70.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.81%",
+    "uptimeYear": "59.79%",
     "time": 198,
     "timeDay": 58,
     "timeWeek": 153,
     "timeMonth": 150,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-10-29": 1422,
+      "2025-10-30": 87,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -855,11 +856,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "38.20%",
+    "uptime": "38.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.63%",
+    "uptimeYear": "52.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1037,8 +1038,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fda.gov.ico",
     "slug": "www-fda-gov",
     "status": "down",
-    "uptime": "19.52%",
+    "uptime": "19.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1111,7 +1111,8 @@
     "timeMonth": 236,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-10-29": 1422,
+      "2025-10-30": 88,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -1447,8 +1448,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -1457,11 +1457,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "50.60%",
+    "uptime": "50.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.39%",
+    "uptimeYear": "53.41%",
     "time": 859,
     "timeDay": 47,
     "timeWeek": 99,
@@ -1637,8 +1637,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -1714,9 +1713,9 @@
     "slug": "www-nhlbi-nih-gov",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "76.14%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.65%",
     "time": 602,
     "timeDay": 262,
@@ -1724,7 +1723,7 @@
     "timeMonth": 278,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-10-29": 344,
+      "2025-10-29": 335,
       "2025-06-04": 19,
       "2025-03-27": 21,
       "2025-03-18": 20,
