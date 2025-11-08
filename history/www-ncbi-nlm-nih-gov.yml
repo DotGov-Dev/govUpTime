@@ -1,7 +1,7 @@
 url: https://www.ncbi.nlm.nih.gov
-status: up
-code: 200
-responseTime: 603
-lastUpdated: 2025-11-08T15:25:45.666Z
+status: down
+code: 503
+responseTime: 163
+lastUpdated: 2025-11-08T16:12:28.496Z
 startTime: 2024-06-14T03:17:03.847Z
 generator: Upptime <https://github.com/upptime/upptime>
