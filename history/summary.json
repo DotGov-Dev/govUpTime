@@ -30,9 +30,9 @@
     "slug": "reg-usps-com",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.06%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.59%",
     "time": 316,
     "timeDay": 291,
@@ -40,7 +40,7 @@
     "timeMonth": 239,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-12-05": 86,
+      "2025-12-05": 78,
       "2025-12-04": 20,
       "2025-12-03": 45,
       "2025-12-01": 26,
@@ -335,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "www-ssa-gov",
     "status": "down",
-    "uptime": "66.77%",
+    "uptime": "66.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.86%",
+    "uptimeYear": "50.84%",
     "time": 256,
     "timeDay": 271,
     "timeWeek": 161,
     "timeMonth": 156,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-12-05": 1399,
+      "2025-12-06": 85,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -643,18 +644,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uscis.gov.ico",
     "slug": "www-uscis-gov",
     "status": "down",
-    "uptime": "65.98%",
+    "uptime": "65.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.76%",
+    "uptimeYear": "51.73%",
     "time": 193,
     "timeDay": 122,
     "timeWeek": 150,
     "timeMonth": 153,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-12-05": 1399,
+      "2025-12-06": 85,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -917,11 +919,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "42.44%",
+    "uptime": "42.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.76%",
+    "uptimeYear": "62.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1062,8 +1064,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -1115,8 +1116,7 @@
       "2024-12-19": 16,
       "2024-12-18": 25,
       "2024-12-16": 16,
-      "2024-12-11": 19,
-      "2024-12-06": 21
+      "2024-12-11": 19
     }
   },
   {
@@ -1136,7 +1136,8 @@
     "timeMonth": 221,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-12-05": 1399,
+      "2025-12-06": 85,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -1472,8 +1473,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -1482,11 +1482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "53.98%",
+    "uptime": "53.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.52%",
+    "uptimeYear": "63.54%",
     "time": 820,
     "timeDay": 105,
     "timeWeek": 105,
@@ -1625,8 +1625,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
