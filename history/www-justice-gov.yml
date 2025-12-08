@@ -1,7 +1,7 @@
 url: https://www.justice.gov
-status: down
-code: 401
-responseTime: 382
-lastUpdated: 2025-12-07T23:57:15.397Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2025-12-08T01:17:10.245Z
 startTime: 2024-06-14T03:17:21.547Z
 generator: Upptime <https://github.com/upptime/upptime>
