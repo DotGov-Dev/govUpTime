@@ -336,18 +336,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "www-ssa-gov",
     "status": "down",
-    "uptime": "65.32%",
+    "uptime": "65.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.57%",
+    "uptimeYear": "47.55%",
     "time": 252,
     "timeDay": 223,
     "timeWeek": 172,
     "timeMonth": 165,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-12-17": 1391,
+      "2025-12-18": 88,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -656,18 +657,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uscis.gov.ico",
     "slug": "www-uscis-gov",
     "status": "down",
-    "uptime": "64.54%",
+    "uptime": "64.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.47%",
+    "uptimeYear": "48.44%",
     "time": 192,
     "timeDay": 191,
     "timeWeek": 149,
     "timeMonth": 160,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-12-17": 1391,
+      "2025-12-18": 88,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -943,11 +945,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "43.69%",
+    "uptime": "43.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.05%",
+    "uptimeYear": "66.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1076,8 +1078,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
@@ -1126,8 +1127,7 @@
       "2025-02-24": 244,
       "2025-01-15": 18,
       "2025-01-01": 15,
-      "2024-12-19": 16,
-      "2024-12-18": 25
+      "2024-12-19": 16
     }
   },
   {
@@ -1147,7 +1147,8 @@
     "timeMonth": 234,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-12-17": 1392,
+      "2025-12-18": 88,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1483,8 +1484,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
@@ -1493,11 +1493,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "54.98%",
+    "uptime": "54.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.81%",
+    "uptimeYear": "66.83%",
     "time": 730,
     "timeDay": 208,
     "timeWeek": 111,
@@ -1624,8 +1624,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
