@@ -1,7 +1,7 @@
 url: https://reg.usps.com
-status: down
-code: 400
-responseTime: 140
-lastUpdated: 2026-01-16T10:56:35.990Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2026-01-16T11:14:58.035Z
 startTime: 2024-06-14T03:17:01.959Z
 generator: Upptime <https://github.com/upptime/upptime>
