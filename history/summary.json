@@ -29,17 +29,17 @@
     "slug": "reg-usps-com",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.53%",
     "time": 254,
     "timeDay": 247,
     "timeWeek": 311,
     "timeMonth": 270,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-03-01": 41,
+      "2026-03-01": 28,
       "2026-02-28": 18,
       "2026-02-22": 42,
       "2026-02-01": 28,
@@ -114,8 +114,7 @@
       "2025-03-11": 20,
       "2025-03-10": 16,
       "2025-03-06": 17,
-      "2025-03-03": 15,
-      "2025-03-02": 42
+      "2025-03-03": 15
     }
   },
   {
@@ -173,7 +172,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.81%",
     "time": 324,
     "timeDay": 93,
     "timeWeek": 264,
@@ -182,8 +181,7 @@
     "dailyMinutesDown": {
       "2025-11-08": 61,
       "2025-03-27": 21,
-      "2025-03-07": 18,
-      "2025-03-02": 1004
+      "2025-03-07": 18
     }
   },
   {
@@ -196,7 +194,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.81%",
     "time": 374,
     "timeDay": 128,
     "timeWeek": 186,
@@ -206,8 +204,7 @@
       "2026-02-21": 120,
       "2025-08-19": 20,
       "2025-07-26": 33,
-      "2025-05-05": 21,
-      "2025-03-02": 914
+      "2025-05-05": 21
     }
   },
   {
@@ -220,15 +217,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.87%",
     "time": 309,
     "timeDay": 108,
     "timeWeek": 216,
     "timeMonth": 205,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2025-03-02": 801
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "forecast.weather.gov",
@@ -332,18 +327,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "www-ssa-gov",
     "status": "down",
-    "uptime": "57.60%",
+    "uptime": "57.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "27.29%",
+    "uptimeYear": "27.27%",
     "time": 226,
     "timeDay": 172,
     "timeWeek": 188,
     "timeMonth": 167,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2026-03-01": 1435,
+      "2026-03-02": 125,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -726,18 +722,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uscis.gov.ico",
     "slug": "www-uscis-gov",
     "status": "down",
-    "uptime": "56.91%",
+    "uptime": "56.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "28.19%",
+    "uptimeYear": "28.16%",
     "time": 172,
     "timeDay": 95,
     "timeWeek": 171,
     "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-03-01": 1435,
+      "2026-03-02": 125,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1086,11 +1083,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceac.state.gov.ico",
     "slug": "ceac-state-gov",
     "status": "down",
-    "uptime": "50.35%",
+    "uptime": "50.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.33%",
+    "uptimeYear": "86.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1145,8 +1142,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -1217,7 +1213,8 @@
     "timeMonth": 212,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-03-01": 1436,
+      "2026-03-02": 125,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1553,8 +1550,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -1563,11 +1559,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/egov.uscis.gov.ico",
     "slug": "egov-uscis-gov",
     "status": "down",
-    "uptime": "60.31%",
+    "uptime": "60.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.33%",
+    "uptimeYear": "86.36%",
     "time": 733,
     "timeDay": 76,
     "timeWeek": 96,
@@ -1622,8 +1618,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -1722,7 +1717,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.77%",
     "time": 493,
     "timeDay": 66,
     "timeWeek": 143,
@@ -1734,8 +1729,7 @@
       "2025-10-29": 335,
       "2025-06-04": 19,
       "2025-03-27": 21,
-      "2025-03-18": 20,
-      "2025-03-02": 870
+      "2025-03-18": 20
     }
   },
   {
@@ -1748,15 +1742,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.85%",
     "time": 378,
     "timeDay": 100,
     "timeWeek": 210,
     "timeMonth": 211,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-08-05": 118,
-      "2025-03-02": 812
+      "2025-08-05": 118
     }
   },
   {
